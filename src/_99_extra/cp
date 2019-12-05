@@ -1,0 +1,15 @@
+ String
+ Int
+ Int
+ Int, 12
+ favoritecode
+ pi
+ String whatIWantToBeWhenIGrowUp = "software engineer";
+ int facebookfriends = 20;
+ String myBirthday = "In June";
+ int sidesInATriangle = 3;
+ String whatdidyougetforyourbirthday = "Nice clothes";
+ String thelastmealyouate = "Pizza";
+ int whattimeyougotobed = 8;
+ int howmanyRobotprogramsyouhavewritten = 10;
+  
