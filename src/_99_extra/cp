@@ -1,3 +1,4 @@
+ 
  String
  Int
  Int
@@ -12,4 +13,53 @@
  String thelastmealyouate = "Pizza";
  int whattimeyougotobed = 8;
  int howmanyRobotprogramsyouhavewritten = 10;
+  for (int j = 0; j < 11; j++)
+  {
   
+  System.out.println(j);
+   }
+ 
+ for (int j = 75; j > 49; j--)
+  {
+  
+  System.out.println(j);
+   }  
+   a) Finding integer.
+   b) Statement; how many times.
+   c) Changing integer.
+   String response = JOptionpane.showinputdialogue("Do you like basketball?");
+   if(response.equals("yes")) {
+   JOptionPane.showMessageDialog(null, "happy" );
+   }
+   else {
+   JOptionPane.showMessageDialog(null, "sad" );
+   }
+   JOptionPane.showMessageDialog(null, "Wednesday" );
+int age = 12;
+
+if(age<20) 
+JOptionpane. Showmessagedialogue(null, "iT IS SO GREAT BEING YOUNG!");
+
+{
+else{
+JOptionpane. Showmessagedialogue(null, "DON'T YOU WISH YOU WERE YOUNG!");
+
+String response = JOptionpane.showinputdialogue("What is your favorite animal?");
+if(response.equals("dog")) {
+JOptionPane.showMessageDialog(null, "Dogs go woof.");
+}
+if(response.equals("cat")) {
+JOptionPane.showMessageDialog(null, "Cats go meow.");
+}
+else{
+JOptionPane.showMessageDialog(null, "I don't know that animal.");
+}
+ 
+
+
+
+
+
+
+
+
